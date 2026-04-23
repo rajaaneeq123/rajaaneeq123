@@ -28,7 +28,7 @@
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,cpp,java,python,js,html,css,bash,flask,docker,N8N,git,github,mysql,DSA,OOP,Linux&perline=12" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=py,cpp,java,python,js,html,css,bash,flask,docker,n8n,git,github,mysql,DSA,OOP,Linux&perline=12" alt="Tech Stack"/>
 </p>
 
 <br/>
